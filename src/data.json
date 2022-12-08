@@ -1,0 +1,110 @@
+[
+    {
+        "studentCode": "20020012", 
+        "name": "Nguyễn Văn Anh",
+        "dateOfBirth": "15/07/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "studentCode": "20027812", 
+        "name": "Tạ Đăng Đức",
+        "dateOfBirth": "28/02/2002",
+        "home": "Hải Phòng"
+    },
+    {
+        "studentCode": "20020412", 
+        "name": "Bùi Đăng Hưng",
+        "dateOfBirth": "22/07/2002",
+        "home": "Đà Nẵng"
+    },
+    {
+        "studentCode": "21020012", 
+        "name": "Nguyễn Anh Tuấn",
+        "dateOfBirth": "21/11/2003",
+        "home": "Nam Định"
+    },
+    {
+        "studentCode": "20720012", 
+        "name": "Trần Duy Đan",
+        "dateOfBirth": "28/12/2002",
+        "home": "Ninh Thuận"
+    },
+    {
+        "studentCode": "21020012", 
+        "name": "Trần Mạnh Dương",
+        "dateOfBirth": "11/03/2003",
+        "home": "Hà Nam"
+    },
+    {
+        "studentCode": "21071012", 
+        "name": "Nguyễn Đức An",
+        "dateOfBirth": "09/02/2003",
+        "home": "Nghệ An"
+    },
+    {
+        "studentCode": "19020012", 
+        "name": "Đặng Hoàng Phúc",
+        "dateOfBirth": "16/04/2001",
+        "home": "Ninh Bình"
+    },
+    {
+        "studentCode": "20571012", 
+        "name": "Nguyễn Linh Chi",
+        "dateOfBirth": "17/11/2002",
+        "home": "Cà Mau"
+    },
+    {
+        "studentCode": "2075412", 
+        "name": "Nguyễn Thị Hà Trang",
+        "dateOfBirth": "09/07/2002",
+        "home": "Hưng Yên"
+    },
+    {
+        "studentCode": "19028612", 
+        "name": "Nguyễn Phong Du",
+        "dateOfBirth": "30/05/2001",
+        "home": "Hà Nội"
+    },
+    {
+        "studentCode": "20725012", 
+        "name": "Đàm Thùy Phương",
+        "dateOfBirth": "19/06/2002",
+        "home": "Thanh Hóa"
+    },
+    {
+        "studentCode": "20087152", 
+        "name": "Đàm Vĩnh Long",
+        "dateOfBirth": "11/08/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "studentCode": "19011471", 
+        "name": "Dương Thúy Quỳnh",
+        "dateOfBirth": "14/04/2001",
+        "home": "Thanh Hóa"
+    },
+    {
+        "studentCode": "20221564", 
+        "name": "Nguyễn Thành Thắng",
+        "dateOfBirth": "30/04/2002",
+        "home": "Hà Tĩnh"
+    },
+    {
+        "studentCode": "20021564", 
+        "name": "Thu Phương",
+        "dateOfBirth": "05/04/2002",
+        "home": "Hà Nội"
+    },
+    {
+        "studentCode": "18021564", 
+        "name": "Vũ Hoài Phương",
+        "dateOfBirth": "11/11/2000",
+        "home": "Nghệ An"
+    },
+    {
+        "studentCode": "17021564", 
+        "name": "Nguyễn Ngọc Linh",
+        "dateOfBirth": "01/12/1999",
+        "home": "Hà Nội"
+    }
+]
